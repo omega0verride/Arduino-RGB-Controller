@@ -5,6 +5,9 @@ This is the first version of a RGB Controller Software using Arduino.
 
 ![](/demo_files/run.PNG)
 
+There are 2 types of RGB LEDs, choose your version.
+![](/rgb_diagram.PNG)
+
 **Make sure to set the correct serial port.**
 
 ```
