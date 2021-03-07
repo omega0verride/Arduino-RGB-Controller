@@ -3,7 +3,7 @@ Simple RGB Controller - Version 1.0
 
 This is the first version of a RGB Controller Software using Arduino.
 
-![](/demo_files/run.PNG | width=500) ![](/demo_files/demo.gif | width=500)
+![](/demo_files/run.PNG=250x250) ![](/demo_files/demo.gif=250x250)
 
 There are 2 types of RGB LEDs, choose your version. 
 ![](/rgb_diagram.png)
